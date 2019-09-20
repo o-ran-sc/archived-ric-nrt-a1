@@ -1,4 +1,3 @@
 # UUID                                                                     	Group Name
 #
-ldap:cn=oran-gerrit-ric-nrt-a1,ou=Groups,dc=freestandards,dc=org           	ldap/oran-gerrit-ric-nrt-a1
 ldap:cn=oran-gerrit-ric-nrt-a1-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-ric-nrt-a1-committers
